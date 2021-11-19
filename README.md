@@ -31,6 +31,8 @@ You can refer me as she/her.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+
 </div>
 
 #### I once experienced but didn't follow :open_file_folder:
@@ -38,6 +40,9 @@ You can refer me as she/her.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
 </div>
+
+### And, of course!
+I always study about SOLID, OOP, Design Patterns and Clean Development to be updated and allwoed to do my work in the best way possible.
 
 ### Contact me :mailbox:
 - Linkedin: https://www.linkedin.com/in/izabelle-derrih%C3%BA-938a39108/
