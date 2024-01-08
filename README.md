@@ -12,7 +12,6 @@ You can refer me as she/her.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="50" height="50" />
 </div>
 
 #### In Back End :gear:
@@ -34,8 +33,19 @@ You can refer me as she/her.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="50" height="50" />
 </div>
 
+#### Currently working with :open_file_folder:
+<div style="display: flex;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" />
+</div>
+
+
 ### And, of course!
-I always study about SOLID, OOP, Design Patterns and Clean Development to be updated and allwoed to do my work in the best way possible.
+I can work with test libs for these tools, datadog and graphana monitoring, docker and kubernetes, and of course, I care a lot about patterns and clean architecture. Always learning about Computer Science.
 
 ### Contact me :mailbox:
 - Linkedin: https://www.linkedin.com/in/izabelle-derrih%C3%BA-938a39108/
